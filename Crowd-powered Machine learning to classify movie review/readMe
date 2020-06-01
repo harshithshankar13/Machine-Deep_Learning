@@ -1,4 +1,4 @@
 The aim of this project is to understand the importance of crowd sourcing in classifying movie reviews. 
 Crowd-sourced data is used from Amazon Mechanical Turk. David & Skene method is used to create labels to train decision tree classifier.
 
-For more information please refer, Crowd-powered classifying Movie Reviews using David & Skene.pdf
+For more information please refer, Crowd-powered_using_David&Skene.pdf
