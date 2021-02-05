@@ -1,4 +1,5 @@
 Natural images are classified using Artificial intelligence method. 
+
 Input used: Natural images - which consist of 8 different classes including airplane, car, cat, dog, flower, fruit, motorbike and person. 
 Models trained to classify natural images: Convolution neural network (CNN) base model, VGG16 CNN architecture and InceptionV3 (GooLeNet) CNN architecture. 
 
